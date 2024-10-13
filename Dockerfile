@@ -18,6 +18,6 @@ VOLUME ["/app/numba_cache"]
 
 COPY . .
 
-EXPOSE 8000
+EXPOSE 5100
 
 CMD ["python", "app.py"]
