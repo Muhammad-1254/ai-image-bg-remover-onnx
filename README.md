@@ -1,10 +1,3 @@
----
-title: Remove Bg Onnx
-emoji: 👀
-colorFrom: indigo
-colorTo: green
-sdk: docker
-pinned: false
----
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out deployed model at huggingface.co
+https://muhammad-1254-remove-bg-onnx.hf.space
